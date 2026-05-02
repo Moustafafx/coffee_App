@@ -1,16 +1,27 @@
-# flutter_app
+# ☕ Coffee App
 
-A new Flutter project.
+A Flutter app for browsing coffee drinks.
 
-## Getting Started
+## 📱 Demo
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[https://github.com/user-attachments/assets/xxxx.mp4](https://github.com/user-attachments/assets/159dc9e9-7d50-4adf-9d02-1fe0aaf2e61e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+- Browse coffee drinks
+- View drink details
+- Beautiful UI
+
+## 🛠️ Tech Stack
+- Flutter
+- BLoC / Cubit
+- Cached Network Image
+
+## 📦 Installation
+```bash
+git clone https://github.com/اسمك/اسم-الريبو.git
+cd اسم-الريبو
+flutter pub get
+flutter run
+```
