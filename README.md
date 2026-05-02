@@ -5,7 +5,9 @@ A Flutter app for browsing coffee drinks.
 ## 📱 Demo
 
 
-[https://github.com/user-attachments/assets/xxxx.mp4](https://github.com/user-attachments/assets/159dc9e9-7d50-4adf-9d02-1fe0aaf2e61e)
+https://github.com/user-attachments/assets/159dc9e9-7d50-4adf-9d02-1fe0aaf2e61e
+
+https://github.com/user-attachments/assets/bda394e4-969c-475a-9b94-4993aa787565
 
 
 ## 🚀 Features
